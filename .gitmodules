@@ -1,0 +1,6 @@
+[submodule "atac"]
+	path = atac
+	url = https://github.com/cellgeni/nf-atac
+[submodule "cellbender"]
+	path = cellbender
+	url = https://github.com/cellgeni/nf-cellbender
